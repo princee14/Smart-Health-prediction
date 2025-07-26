@@ -1,4 +1,5 @@
 🩺 Smart Healthcare Prediction App
+
 An AI-powered healthcare risk prediction tool that helps assess heart disease and diabetes risks through machine learning models, with support for individual and batch predictions, visual analytics, and an AI assistant for real-time Q&A.
 
 🚀 Features
